@@ -1,2 +1,6 @@
-# learning-notes
-mirroring the content to https://notes.suny.vip
+---
+description: 记录学习或工作过程中的想法
+---
+
+# 👨🏻‍💻关于
+
