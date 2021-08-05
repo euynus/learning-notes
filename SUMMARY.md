@@ -2,11 +2,17 @@
 
 * [👨🏻‍💻关于](README.md)
 
+
+
+## Design Patterns
+
+* [深入浅出设计模式](design-patterns/Head-First-Design-Patterns.md)
+
 ## Python
 
-* [Python](python/python.md)
+* [流畅的Python](python/Fluent-Python.md)
 
 ## Golang
 
-* [Untitled](golang/untitled.md)
+* [Go语言实战](golang/Go-In-Action.md)
 
