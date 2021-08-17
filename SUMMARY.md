@@ -14,6 +14,10 @@
 
 * [Go语言实战](golang/go-in-action.md)
 
+## Solidity
+
+- [Solidity学习笔记](Solidity/Solidity-Learning-Notes.md)
+
 ## 书单
 
 * [2021](书单/2021.md)
